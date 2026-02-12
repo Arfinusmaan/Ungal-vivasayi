@@ -12,7 +12,7 @@ function Hero() {
         <div className="absolute top-1/4 left-1/4 w-[40vw] h-[40vw] rounded-full bg-white/60 blur-[100px]" />
         
         {/* Decorative text */}
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full text-center select-none overflow-hidden whitespace-nowrap opacity-[0.03] font-serif text-[21vw] leading-none pointer-events-none">
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 max-md:-translate-y-4/4 w-full text-center select-none overflow-hidden whitespace-nowrap opacity-[0.03] font-serif text-[21vw] leading-none pointer-events-none">
           VIVASAAYI
         </div>
       </div>
